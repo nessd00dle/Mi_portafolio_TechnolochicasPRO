@@ -41,7 +41,9 @@ let elementoDeTypewriter = new Typewriter(elementoHTMLTitulo, {
 elementoDeTypewriter.typeString('Vanessa Reyes')
     .pauseFor(2500)
     .deleteAll()
-    .typeString('Desarrolladora Web')
+    .typeString('Desarrolladora Web Jr.')
     .pauseFor(2500)
     .deleteAll()
     .start();
+
+    

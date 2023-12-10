@@ -5,3 +5,9 @@
 #proyecto1 {
     background-image: url('unsplash-photo-1.jpg');
 }
+
+
+
+#proyectos .card.text-bg-dark {
+    background-color: red; /* Cambia "red" por el color que desees */
+}
